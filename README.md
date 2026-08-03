@@ -7,7 +7,10 @@ The objective of this project is to analyze the relationship between Bitcoin mar
 
 ### Dataset
 1. Historical Trader Data
-2. Bitcoin Fear & Greed Index
+  https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
+
+3. Bitcoin Fear & Greed Index
+https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
 
 ### Tools & Technologies
 - Python
